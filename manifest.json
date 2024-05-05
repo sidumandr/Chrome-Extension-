@@ -1,0 +1,11 @@
+{
+  "name": "Chrome Extension ",
+  "version": "1.0.0",
+  "description": "Pratik amacli yapilan bir projedir.",
+  "manifest_version": 3,
+  "author": "Sidumandr",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
